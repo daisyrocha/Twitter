@@ -20,9 +20,11 @@ The following **bonus** features are implemented:
 - [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
-![](https://i.imgur.com/8SzNPTI.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/72002539/155284796-1ab0e193-7dbf-46cc-80f1-86e3cc2bb2a8.gif)
+
+![](https://i.imgur.com/6LksXga.gif)
 
 
 Here's a walkthrough of implemented user stories:
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/72002539/155365211-5d2eb728-1b1c-4fdc-8433-d9e3377f0940.gif)
